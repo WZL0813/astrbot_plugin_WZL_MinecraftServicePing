@@ -1,0 +1,2 @@
+# astrbot_plugin_WZL_mcping
+astrbot_plugin_WZL_mcping
